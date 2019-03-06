@@ -1,0 +1,16 @@
+* {
+    padding: 0; margin: 0;
+}
+.mainbox {
+    width: 90%;
+    padding-bottom: 90%;
+}
+
+.mainbox div {
+    width: 25%;
+    padding-bottom: 25%;
+    background-color: #ffa500;
+    border-radius: 3%;
+    float: left;
+    margin: 1%;
+}
